@@ -1,0 +1,36 @@
+com.example.workout.app-core-viewtree-1.0.0-0 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/1336bb3e454e00088396236a7fa807fc/transformed/core-viewtree-1.0.0/res
+com.example.workout.app-recyclerview-1.1.0-1 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/194cc628c2ab79542db445e14b88d599/transformed/recyclerview-1.1.0/res
+com.example.workout.app-core-1.16.0-2 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/1ac9a5a6a36d139f4d41d9656ee6c4dd/transformed/core-1.16.0/res
+com.example.workout.app-core-runtime-2.2.0-3 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/205cea0db93e4c78aef54645944ba6cf/transformed/core-runtime-2.2.0/res
+com.example.workout.app-lifecycle-livedata-core-2.6.2-4 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/22e59510fae9e3e01a0962a217fb33b8/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.workout.app-constraintlayout-2.2.1-5 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/28dd013a0f69d6508fc7b0e1d055ce5a/transformed/constraintlayout-2.2.1/res
+com.example.workout.app-appcompat-resources-1.7.1-6 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/320a2deb4d1771e1ed0cfb70de98d2d4/transformed/appcompat-resources-1.7.1/res
+com.example.workout.app-cardview-1.0.0-7 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/37f7ad57fd673e373bf6892b6a042884/transformed/cardview-1.0.0/res
+com.example.workout.app-activity-1.10.1-8 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/48da1dd8fa5661dc78b0eac5febb3bfe/transformed/activity-1.10.1/res
+com.example.workout.app-profileinstaller-1.4.0-9 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/518c1f36c8ab7b267f611a769e93b1cd/transformed/profileinstaller-1.4.0/res
+com.example.workout.app-appcompat-1.7.1-10 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/5b4d202ae230fadfa207bfeb74a0a7fe/transformed/appcompat-1.7.1/res
+com.example.workout.app-core-ktx-1.16.0-11 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/6ae3504a197047e411c6d70ad99e511d/transformed/core-ktx-1.16.0/res
+com.example.workout.app-transition-1.5.0-12 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/6c2fd9199837627ca6ee6f532b083dc9/transformed/transition-1.5.0/res
+com.example.workout.app-savedstate-1.2.1-13 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/7a83fe2a1c48a709d5a724466230c12a/transformed/savedstate-1.2.1/res
+com.example.workout.app-lifecycle-viewmodel-savedstate-2.6.2-14 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/893dbd0c7ccde1cf4c8abb94302b8c04/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.workout.app-drawerlayout-1.1.1-15 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/8afebbde99551b32d00c95b387e237cc/transformed/drawerlayout-1.1.1/res
+com.example.workout.app-coordinatorlayout-1.1.0-16 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/b90ce83a69c185479765b1920d894916/transformed/coordinatorlayout-1.1.0/res
+com.example.workout.app-emoji2-1.3.0-17 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/bc7c2f5ce3deab900ab6468ebed00762/transformed/emoji2-1.3.0/res
+com.example.workout.app-lifecycle-livedata-2.6.2-18 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/c64b83b132687786e3456fcf11863f69/transformed/lifecycle-livedata-2.6.2/res
+com.example.workout.app-lifecycle-process-2.6.2-19 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/c75fad262b69372e31f80499b915284a/transformed/lifecycle-process-2.6.2/res
+com.example.workout.app-annotation-experimental-1.4.1-20 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/ca4f5eb6424d8f0e76fbdbe24aaf86d3/transformed/annotation-experimental-1.4.1/res
+com.example.workout.app-startup-runtime-1.1.1-21 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/cf60c47d867e4cfa0b3e2604048c505b/transformed/startup-runtime-1.1.1/res
+com.example.workout.app-fragment-1.5.4-22 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/d1377a1b090aac01ebcf0294ff3862ed/transformed/fragment-1.5.4/res
+com.example.workout.app-lifecycle-viewmodel-2.6.2-23 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/edf6aee51ec358a789289709a1c729ca/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.workout.app-tracing-1.2.0-24 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/f27dee2d0e0c33cb07f9110f5ffe08c9/transformed/tracing-1.2.0/res
+com.example.workout.app-viewpager2-1.0.0-25 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/f83bb1903da314b79d5d4346550b395a/transformed/viewpager2-1.0.0/res
+com.example.workout.app-lifecycle-runtime-2.6.2-26 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/f83c31e1e646dede67483636a33265e0/transformed/lifecycle-runtime-2.6.2/res
+com.example.workout.app-material-1.12.0-27 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/fabfe20e41a903b43fd385de888f3092/transformed/material-1.12.0/res
+com.example.workout.app-emoji2-views-helper-1.3.0-28 /Users/beyzaturel/.gradle/caches/8.11.1/transforms/ff34efeabd43cda7d2189cb5119eb1a9/transformed/emoji2-views-helper-1.3.0/res
+com.example.workout.app-pngs-29 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/build/generated/res/pngs/debug
+com.example.workout.app-resValues-30 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/build/generated/res/resValues/debug
+com.example.workout.app-packageDebugResources-31 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.workout.app-packageDebugResources-32 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.workout.app-debug-33 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.workout.app-debug-34 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/src/debug/res
+com.example.workout.app-main-35 /Users/beyzaturel/Desktop/Uni Koeln/Informationsverarbeitung/8.SoSe25/BSI/Workout/app/src/main/res
