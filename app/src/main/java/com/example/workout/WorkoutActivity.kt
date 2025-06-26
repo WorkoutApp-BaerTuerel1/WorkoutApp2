@@ -39,15 +39,13 @@ class WorkoutActivity : AppCompatActivity() {
         startButton = findViewById(R.id.startButton)
 
         startSound = MediaPlayer.create(this, R.raw.start_sound)
-        pauseSound = MediaPlayer.create(this, R.raw.timerpause)
+        pauseSound = MediaPlayer.create(this, R.raw.timer_pause)
         finishSound = MediaPlayer.create(this, R.raw.workout_beendet)
 
         viewModel.exercise.observe(this, Observer { exercise ->
             titleText.text = exercise.title
             descriptionText.text = exercise.description
             imageView.setImageResource(exercise.imageRes)
-            timerText.text = ""
-            startButton.isEnabled = true
         })
 
         viewModel.timerText.observe(this, Observer {
@@ -60,6 +58,10 @@ class WorkoutActivity : AppCompatActivity() {
                 "PAUSE" -> pauseSound.start()
                 "END" -> finishSound.start()
             }
+        })
+
+        viewModel.startable.observe(this, Observer { canStart ->
+            startButton.isEnabled = canStart
         })
 
         viewModel.finished.observe(this, Observer { finished ->

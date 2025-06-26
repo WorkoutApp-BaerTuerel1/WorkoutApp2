@@ -29,7 +29,7 @@
         android:id="@+id/buttonWorkout1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Workout 1"
+        android:text="Bauch"
         android:layout_marginTop="12dp"
         android:backgroundTint="#9C27B0"/>
 
@@ -37,7 +37,7 @@
         android:id="@+id/buttonWorkout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Workout 2"
+        android:text="Beine"
         android:layout_marginTop="12dp"
         android:backgroundTint="#9C27B0"/>
 
@@ -45,7 +45,7 @@
         android:id="@+id/buttonWorkout3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Workout 3"
+        android:text="Full Body"
         android:layout_marginTop="12dp"
         android:backgroundTint="#9C27B0" />
 

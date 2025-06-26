@@ -15,7 +15,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:text="Übungstitel" />
+            android:text="Übungstitel"
+            android:textColor="#000000" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -30,7 +31,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Übungsbeschreibung"
-            android:layout_marginBottom="16dp" />
+            android:layout_marginBottom="16dp"
+            android:textColor="#000000"/>
 
         <TextView
             android:id="@+id/timerText"
@@ -38,7 +40,8 @@
             android:layout_height="wrap_content"
             android:textSize="18sp"
             android:text="Timer"
-            android:layout_marginBottom="8dp" />
+            android:layout_marginBottom="8dp"
+            android:textColor="#000000"/>
 
         <Button
             android:id="@+id/startButton"
